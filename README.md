@@ -1,2 +1,20 @@
-# Stock_Revenue_Analysis_Dashboard
-This project focuses on analyzing historical stock and revenue data for Tesla and GameStop. Using Python, it retrieves stock data via the yfinance library and revenue data through web scraping. The project culminates in a user-friendly dashboard for visualizing and interpreting the trends in stock performance and company revenues.
+# Stock & Revenue Analysis Dashboard
+
+This repository contains a data analysis project focusing on Tesla and GameStop's historical stock and revenue data. The project uses Python to extract and analyze the data and presents the results in a visually appealing dashboard.
+
+## Features
+- Extract stock data for Tesla and GameStop using the `yfinance` library
+- Web scraping to gather revenue data for both companies
+- Data cleaning and preparation for analysis
+- Dashboard for visualizing stock and revenue trends for Tesla and GameStop
+
+## Technologies
+- Python
+- yfinance
+- BeautifulSoup (for web scraping)
+- Pandas & Matplotlib (for data processing and visualization)
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/stock-revenue-analysis-dashboard.git
